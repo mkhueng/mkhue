@@ -1,3 +1,4 @@
+Study Time Tracker
 #It asks you how many hours you have studied today. The program also tells you how much hours you are on pace to read for that week after you insert how much hours you studied that day.
 
 python app.py
